@@ -7,6 +7,7 @@ The sentiment analysis API is capable of computing document-level sentiment, sen
 Requirements
 ----
 - IBM SPSS Modeler v17.1
+- R Essentials for SPSS Modeler plugin 
 
 More information here: [IBM Predictive Extensions][2]
 
@@ -15,6 +16,11 @@ Installation instructions
 ----
 1. Download the extension.
 2. Install extension from [gallery][2] 
+
+---
+Examples stream and data
+----
+Example folder include example stream and sample data
 
 ---
 License
