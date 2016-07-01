@@ -1,4 +1,4 @@
-# Alchemy Text Sentiment
+# Sentiment Analysis with Alchemy
 
 The sentiment analysis API is capable of computing document-level sentiment, sentiment for user-specified targets, entity-level sentiment, quotation-level sentiment, directional-sentiment and keyword-level sentiment. These multiple modes of sentiment analysis provide for a variety of use cases ranging from social media monitoring to trend analysis.  
 [Alchemy](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/alchemylanguage/)  
