@@ -1,6 +1,6 @@
 {
  "type": [ "Extension" ],
-"provider": [ "Alchemy" ],
+"provider": [ "IBM" ],
 "software": [ "SPSS Modeler" ],
 "language": [ " R" ],
 "category": [ "Utility" ],
